@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "生きているより楽しそう (Live at Virtual, 2022)",
+  "base_artist": "理芽",
+  "createdAt": "2026-02-22T07:39:42.279721Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "生きているより楽しそう",
+      "artist": "理芽",
+      "has_synced": false,
+      "path": "select/pl_01_生きているより楽しそう_理芽.txt"
+    }
+  ]
+}
